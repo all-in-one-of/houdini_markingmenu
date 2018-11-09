@@ -1,7 +1,8 @@
 # houdini_markingmenu
-## This is a marking menu for the houdini network editor. It provides quick and customized access to node creation, toolscripts, shelf tools, and more
+####     Quick and customizable access to node creation, toolscripts, shelf tools, and custom scripts inside the network editor
 
-### Installation
+
+## Installation
 ```
 HOUDINI_USER_PREF_DIR/
     python2.7libs/
