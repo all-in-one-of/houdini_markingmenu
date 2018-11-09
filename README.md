@@ -1,5 +1,5 @@
 # houdini_markingmenu
-####     Quick and customizable access to node creation, toolscripts, shelf tools, and custom scripts inside the network editor
+####     Quick and customizable access to node creation, toolscripts / shelf tools, and custom scripts from inside the network editor
 
 
 ## Installation
