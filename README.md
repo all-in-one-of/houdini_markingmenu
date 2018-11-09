@@ -1,11 +1,11 @@
 # houdini_markingmenu
 ## This is a marking menu for the houdini network editor. It provides quick and customized access to node creation, toolscripts, shelf tools, and more
 
-Install to:
+### Installation
 ```
 HOUDINI_USER_PREF_DIR/
     python2.7libs/
         houdini_markingmenu/
         nodegraphhooks.py
 ```
-special care should be taken if you already have custom event handling in your own nodegraphhooks.py
+#### NOTE: special care should be taken if you already have custom event handling in your own nodegraphhooks.py
