@@ -1,5 +1,5 @@
 # houdini_markingmenu
-## This is a marking menu for the houdini network editor. It allows fast access to node creation, placement, toolscripts, and shelf tools
+## This is a marking menu for the houdini network editor. It provides quick and customized access to node creation, toolscripts, shelf tools, and more
 
 Install to:
 ```
