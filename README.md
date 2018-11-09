@@ -9,4 +9,6 @@ HOUDINI_USER_PREF_DIR/
         houdini_markingmenu/
         nodegraphhooks.py
 ```
-#### NOTE: special care should be taken if you already have custom event handling in your own nodegraphhooks.py
+##### [INFO]: Special care should be taken if you already have custom event handling in your own nodegraphhooks.py
+##### [INFO]: For linux users, you might have to turn on window compositing to get the transparency working correctly.
+
